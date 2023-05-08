@@ -8,3 +8,7 @@ Sherwin Motlagh
 
 ## Explore Page
 [Explore Page](https://sherwin25.github.io/Lab5_Starter/explore.html)
+
+## Github Actions
+[Github Actions](https://sherwin25.github.io/Lab5_Starter/.github/workflows/learn-github-actions.yaml)
+
